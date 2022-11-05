@@ -9,6 +9,9 @@ sᴇɴɪᴏʀs ²²
 ![App Screenshot](https://cdn.discordapp.com/attachments/967469027972747327/1038266983923335268/image.png)
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/967469027972747327/1038267142614810674/image.png)
+
+![App Screenshot](https://cdn.discordapp.com/attachments/967469027972747327/1038377076673228881/image.png)
+
 ## Color Reference
 
 | Color             | Hex                                                                |
