@@ -34,10 +34,12 @@
     <link rel="stylesheet" href="css/style.css">
     <!-- Scroll -->
     <link rel="stylesheet" href="css/scroll.css">
-    <!-- Clock -->
+    <!-- Countdown -->
     <link rel="stylesheet" href="css/flipclock.css">
     <!-- Modernizr JS -->
     <script src="js/modernizr-2.6.2.min.js"></script>
+    <!-- Countdown JS -->
+    <script src="js/flipclock.js"></script>
   </head>
   <body>
     <div id="fh5co-offcanvass">
@@ -56,7 +58,7 @@
         <li>
           <a href="mmxxii.html">MMXXII</a>
         </li>
-	    <li class="active">
+        <li class="active">
           <a href="countdown.html">Countdown</a>
         </li>
         <li>
@@ -86,44 +88,26 @@
     </header>
     <!-- END .header -->
     <div id="fh5co-main">
-      <div class="clock-builder-output"></div>
-      <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-      <script type="text/javascript" src="js/flipclock.js"></script>
-      <style text="text/css">
-        body .flip-clock-wrapper ul li a div div.inn,
-        body .flip-clock-small-wrapper ul li a div div.inn {
-          color: #CCCCCC;
-          background-color: #333333;
-        }
-
-        body .flip-clock-dot,
-        body .flip-clock-small-wrapper .flip-clock-dot {
-          background: #323434;
-        }
-
-        body .flip-clock-wrapper .flip-clock-meridium a,
-        body .flip-clock-small-wrapper .flip-clock-meridium a {
-          color: #323434;
-        }
-      </style>
-      <script type="text/javascript">
-        $(function() {
-          FlipClock.Lang.Custom = {
-            days: 'Days',
-            hours: 'Hours',
-            minutes: 'Minutes',
-            seconds: 'Seconds'
-          };
-          var opts = {
-            clockFace: 'DailyCounter',
-            countdown: true,
-            language: 'Custom'
-          };
-          var countdown = 1669068300 - ((new Date().getTime()) / 1000); // from: 11/21/2022 05:05 pm -0500
-          countdown = Math.max(1, countdown);
-          $('.clock-builder-output').FlipClock(countdown, opts);
-        });
-      </script>
+      <div class="containers">
+        <img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="images/aurotime.png" alt="AURORAMS" class="img-rounded img-responsive">
+        </p>
+        <div id="countdown">
+          <ul>
+            <li style="display: inline-block; font-size: 1.5em; list-style-type: none; padding: 1em; text-transform: uppercase;">
+              <span style="line-height: 1.6; font-size: calc(3.375rem * var(.75)); display: block; font-size: 4.5rem;" id="days"></span>Días
+            </li>
+            <li style="display: inline-block; font-size: 1.5em; list-style-type: none; padding: 1em; text-transform: uppercase;">
+              <span style="line-height: 1.6; font-size: calc(3.375rem * var(.75)); display: block; font-size: 4.5rem;" id="hours"></span>Horas
+            </li>
+            <li style="display: inline-block; font-size: 1.5em; list-style-type: none; padding: 1em; text-transform: uppercase;">
+              <span style="line-height: 1.6; font-size: calc(3.375rem * var(.75)); display: block; font-size: 4.5rem;" id="minutes"></span>Minutos
+            </li>
+            <li style="display: inline-block; font-size: 1.5em; list-style-type: none; padding: 1em; text-transform: uppercase;">
+              <span style="line-height: 1.6; font-size: calc(3.375rem * var(.75)); display: block; font-size: 4.5rem;" id="seconds"></span>Segundos
+            </li>
+          </ul>
+        </div>
+      </div>
     </div>
     <footer id="fh5co-footer">
       <div class="container">
