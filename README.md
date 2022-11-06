@@ -33,7 +33,7 @@ sᴇɴɪᴏʀs ²²
 
 ## Support
 
-For support, email nova0101@protonmail.com.
+For support, email nova0101@protonmail.com
 
 ## Badges
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
