@@ -12,6 +12,8 @@ sᴇɴɪᴏʀs ²²
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/967469027972747327/1038572126258606142/image.png)
 
+![App Screenshot](https://cdn.discordapp.com/attachments/967469027972747327/1038606877543628880/image.png)
+
 ![App Screenshot](https://cdn.discordapp.com/attachments/967469027972747327/1038377076673228881/image.png)
 
 ## Color Reference
