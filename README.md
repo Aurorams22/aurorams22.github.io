@@ -12,6 +12,8 @@ sᴇɴɪᴏʀs ²²
 
 ![image](https://github.com/user-attachments/assets/5e974aea-d0b6-4099-b159-73336a58cb4b)
 
+![image](https://github.com/user-attachments/assets/762513ad-9689-456f-a733-4dd0278d9643)
+
 ## Color Reference
 
 | Color             | Hex                                                                |
