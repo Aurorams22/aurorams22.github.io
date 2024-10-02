@@ -29,11 +29,7 @@ sᴇɴɪᴏʀs ²²
 
 ## Authors
 
-- [@qzxtu](https://github.com/qzxtu)
-
-## Support
-
-For support, email nova0101@protonmail.com
+- [@fl2on](https://github.com/fl2on)
 
 ## Badges
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
