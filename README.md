@@ -6,15 +6,11 @@ sᴇɴɪᴏʀs ²²
 ᴛᴏᴍᴏʀʀᴏᴡ ɪs ᴍɪsᴛᴇʀʏ ✨
 ## Screenshot
 
-![App Screenshot](https://cdn.discordapp.com/attachments/967469027972747327/1038266983923335268/image.png)
+![image](https://github.com/user-attachments/assets/bf4abf42-1cb7-4f5a-a13f-310997b59e75)
 
-![App Screenshot](https://cdn.discordapp.com/attachments/967469027972747327/1038267142614810674/image.png)
+![image](https://github.com/user-attachments/assets/f8e9d825-95ed-44c2-88ff-13bea0991d14)
 
-![App Screenshot](https://cdn.discordapp.com/attachments/967469027972747327/1038572126258606142/image.png)
-
-![App Screenshot](https://cdn.discordapp.com/attachments/967469027972747327/1038606877543628880/image.png)
-
-![App Screenshot](https://cdn.discordapp.com/attachments/967469027972747327/1038377076673228881/image.png)
+![image](https://github.com/user-attachments/assets/5e974aea-d0b6-4099-b159-73336a58cb4b)
 
 ## Color Reference
 
