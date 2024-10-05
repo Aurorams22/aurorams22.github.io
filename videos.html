@@ -109,6 +109,29 @@
 	<script src="js/salvattore.min.js"></script>
 	<!-- Main JS -->
 	<script src="js/main.js"></script>
+	<script>
+		const menuBtn = document.querySelector('.js-fh5co-menu-btn');
+		const offcanvasMenu = document.getElementById('fh5co-offcanvass');
+		const videoContainer = document.querySelector('.sk-ww-youtube-playlist-videos');
 
+		function toggleMenu() {
+			offcanvasMenu.classList.toggle('active');
+			if (offcanvasMenu.classList.contains('active')) {
+				videoContainer.style.pointerEvents = 'none';
+			} else {
+				videoContainer.style.pointerEvents = 'auto';
+			}
+		}
+
+		menuBtn.addEventListener('click', toggleMenu);
+
+		document.addEventListener('click', function(event) {
+			if (!offcanvasMenu.contains(event.target) && !menuBtn.contains(event.target)) {
+				if (offcanvasMenu.classList.contains('active')) {
+					toggleMenu();
+				}
+			}
+		});
+	</script>
 	</body>
 </html>
