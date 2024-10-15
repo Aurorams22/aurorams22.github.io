@@ -25,6 +25,12 @@ sᴇɴɪᴏʀs ²²
 | Light Gray | ![#CCCCCC](https://via.placeholder.com/10/CCCCCC?text=+) #CCCCCC |
 | Dark Grayish Blue | ![#818892](https://via.placeholder.com/10/818892?text=+) #818892 |
 
+## Image use policy
+
+The images in this repository are copyrighted and **may not be distributed, modified, or reused** without explicit permission from the author.
+
+These images are intended solely for personal or academic use within this project and may not be shared or distributed in any way.
+
 ## Authors
 
 - [@fl2on](https://github.com/fl2on)
