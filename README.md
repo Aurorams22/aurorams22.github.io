@@ -14,16 +14,16 @@ sᴇɴɪᴏʀs ²²
 
 ![image](https://github.com/user-attachments/assets/762513ad-9689-456f-a733-4dd0278d9643)
 
-## Color Reference
+### Color Reference Table
 
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Black | ![#000000](https://via.placeholder.com/10/000000?text=+) #000000 |
-| White | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Soft Red | ![#EF5353](https://via.placeholder.com/10/EF5353?text=+) #EF5353 |
-| Very Dark Gray | ![#444444](https://via.placeholder.com/10/444444?text=+) #444444 |
-| Light Gray | ![#CCCCCC](https://via.placeholder.com/10/CCCCCC?text=+) #CCCCCC |
-| Dark Grayish Blue | ![#818892](https://via.placeholder.com/10/818892?text=+) #818892 |
+| Color             | Hex Code   |
+|-------------------|------------|
+| Black             | `#000000`  |
+| White             | `#f8f8f8`  |
+| Soft Red          | `#EF5353`  |
+| Very Dark Gray    | `#444444`  |
+| Light Gray        | `#CCCCCC`  |
+| Dark Grayish Blue | `#818892`  |
 
 # Restrictions on images
 
