@@ -4,49 +4,63 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url>
-  <loc>https://aurorams22.github.io/</loc>
-  <lastmod>2025-01-23T04:50:36+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://aurorams22.github.io/index.html</loc>
-  <lastmod>2025-01-23T04:50:36+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aurorams22.github.io/logos.html</loc>
-  <lastmod>2025-01-23T04:50:36+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aurorams22.github.io/mmxxii.html</loc>
-  <lastmod>2025-01-23T04:50:36+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aurorams22.github.io/reels.html</loc>
-  <lastmod>2025-01-23T04:50:36+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aurorams22.github.io/videos.html</loc>
-  <lastmod>2025-01-23T04:50:36+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aurorams22.github.io/countdown.html</loc>
-  <lastmod>2025-01-23T04:50:36+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aurorams22.github.io/about.html</loc>
-  <lastmod>2025-01-23T04:50:36+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aurorams22.github.io/contact.html</loc>
-  <lastmod>2025-01-23T04:50:36+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
+  <!-- Página principal -->
+  <url>
+    <loc>https://aurorams22.github.io/</loc>
+    <lastmod>2025-01-23T04:50:36+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- Páginas secundarias -->
+  <url>
+    <loc>https://aurorams22.github.io/about.html</loc>
+    <lastmod>2025-01-23T04:50:36+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://aurorams22.github.io/contact.html</loc>
+    <lastmod>2025-01-23T04:50:36+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Contenido multimedia -->
+  <url>
+    <loc>https://aurorams22.github.io/videos.html</loc>
+    <lastmod>2025-01-23T04:50:36+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://aurorams22.github.io/reels.html</loc>
+    <lastmod>2025-01-23T04:50:36+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Otras páginas -->
+  <url>
+    <loc>https://aurorams22.github.io/logos.html</loc>
+    <lastmod>2025-01-23T04:50:36+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://aurorams22.github.io/mmxxii.html</loc>
+    <lastmod>2025-01-23T04:50:36+00:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.60</priority>
+  </url>
+
+  <url>
+    <loc>https://aurorams22.github.io/countdown.html</loc>
+    <lastmod>2025-01-23T04:50:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
 </urlset>
